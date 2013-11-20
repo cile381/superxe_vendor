@@ -1,0 +1,3 @@
+#!/system/bin/sh
+log -p i -t start "    SuperXE - Android Roms";
+
