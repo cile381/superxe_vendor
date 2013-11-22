@@ -1,4 +1,4 @@
-# Allow vold to manage ASEC
+# Allow vold to set ASEC
 allow vold sdcard_external:file create_file_perms;
 
 # Allow vold to change context for mounted ext4 sdcard
